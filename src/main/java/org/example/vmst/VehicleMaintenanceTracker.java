@@ -233,7 +233,7 @@ public class VehicleMaintenanceTracker extends Application {
         ListView<String> vehicleList = new ListView<>();
         vehicleList.getItems().addAll(
                 "Tesla Model 3 - VIN: 5YJ3E1EA7LF000000",
-                "Toyota Corolla - VIN: JTDBU4EE9BJ123456",
+                "Toyota Corolla - VIN: JTDrU4EE9BJ123456",
                 "Ford Mustang - VIN: 1FA6P8CF2K1234567"
         );
 
